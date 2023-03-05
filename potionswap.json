@@ -14,14 +14,14 @@
   ],
   "tokens": [
     {
-      "name": "Aave",
-      "symbol": "AAVE",
-      "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+      "name": "Potion",
+      "symbol": "POTION",
+      "address": "0x3edA36088b931098e8E472748840b3dF78268c72",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/AAVE.png",
-      "bridgeId": "aavev2",
-      "nativeChain": 1,
+      "bridgeId": "potion",
+      "nativeChain": 250,
       "permit": 1
     },
     {
