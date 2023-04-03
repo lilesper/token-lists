@@ -19,7 +19,7 @@
       "address": "0x3edA36088b931098e8E472748840b3dF78268c72",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://assets.spooky.fi/tokens/AAVE.png",
+      "logoURI": "https://magepunks.xyz/assets/images/potion-icon.png",
       "bridgeId": "potion",
       "nativeChain": 250,
       "permit": 1
